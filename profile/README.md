@@ -24,7 +24,7 @@ Sähköposti / Email: [contact@localghost.fi](mailto:contact@localghost.fi)
 ---
 LocalghostFI on 100% suomalainen ohjelmistotalo:    
 
-[![SSF_logo](https://softwarefromfinland.com/wp-content/uploads/2017/03/software-from-finland-positive-web.png)](https://softwarefromfinland.com)
+[![SSF_logo](https://localghost.fi/wp-content/uploads/2021/01/SFF-positive-web-2-1.png)](https://softwarefromfinland.com)
       
 ---    
 LocalghostFI:n emoyhtiö:    
