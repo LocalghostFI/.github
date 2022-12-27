@@ -28,6 +28,6 @@ LocalghostFI is a 100% Finnish software company:
 [![SSF_logo](https://localghost.fi/wp-content/uploads/2021/01/SFF-positive-web-2-1.png)](https://softwarefromfinland.com)
       
 ---    
-LocalghostFI:n emoyhtiö:     
-VAT: FI31678332    
-Helsinki, Finland     
+LocalghostFI     
+VAT: FI29826295    
+Tampere, Finland     
