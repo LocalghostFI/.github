@@ -18,8 +18,8 @@ LocalghostFI verkkokaupat:
 ---     
 LocalghostFI yhteystiedot:    
 
-Sähköposti / Email: [contact@localghost.fi](mailto:contact@localghost.fi)    
-[Discord](https://discord.fleromedia.fi)    
+Sähköposti / Email: [asiakaspalvelu@localghost.fi](mailto:asiakaspalvelu@localghost.fi)    
+[Discord](https://discord.lgfi.fi)    
 
 ---
 LocalghostFI on 100% suomalainen ohjelmistotalo:  
