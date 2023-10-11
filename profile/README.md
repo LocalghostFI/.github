@@ -12,8 +12,10 @@ LocalghostFI somet / linkit:
 [Instagram](https://instagram.com/localghostfi)     
 
 ---
-LocalghostFI Verkkokauppa:     
+LocalghostFI Verkkokauppa:  
+
 [Kauppa / Store](https://kauppa.localghost.fi)
+
 ---     
 LocalghostFI yhteystiedot:    
 
