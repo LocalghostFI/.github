@@ -1,20 +1,19 @@
 [![LG_logo](https://cdn.mb24.fi/Logot/Localghost/localghost_oranssi.png)](https://localghost.fi)
 
 
-LocalghostFI:n palveluihin kuuluvat verkkoasennukset- ja korjaukset, tietokonehuolto, uniikit pelipalvelimet, ohjelmointi sekä 3D-tulostuspalvelua.    
-EN: LocalghostFI's services include network installations and repairs, computer maintenance, unique game servers, programming and a 3D printing service.
+LocalghostFI:n palveluihin kuuluvat verkkoasennukset- ja korjaukset, tietokonehuolto, uniikit pelipalvelimet and ohjelmointi.    
+EN: LocalghostFI's services include network installations and repairs, computer maintenance, unique game servers and programming.
 
 ---
 LocalghostFI somet / linkit:
 
 [Kotisivu / Homepage](https://localghost.fi)    
-[Twitter](https://twitter.com/localghostfi)     
+[X](https://twitter.com/localghostfi)     
 [Instagram](https://instagram.com/localghostfi)     
 
 ---
-LocalghostFI verkkokaupat:     
-[Verkkokauppa / Web Shop](https://localghost.fi/store)     
-
+LocalghostFI Verkkokauppa:     
+[Kauppa / Store](https://kauppa.localghost.fi)
 ---     
 LocalghostFI yhteystiedot:    
 
