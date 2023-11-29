@@ -1,4 +1,4 @@
-[![LG_logo](https://cdn.mb24.fi/Logot/Localghost/localghost_oranssi.png)](https://localghost.fi)
+[![LG_logo](https://kuvat.localghost.fi/LGFI/Logot/PNG/VaaleanSininen.png)](https://localghost.fi)
 
 
 LocalghostFI:n palveluihin kuuluvat verkkoasennukset- ja korjaukset, tietokonehuolto, uniikit pelipalvelimet and ohjelmointi.    
