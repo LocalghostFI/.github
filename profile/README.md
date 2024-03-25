@@ -7,20 +7,23 @@ EN: LocalghostFI's services include network installations and repairs, computer 
 ---
 LocalghostFI somet / linkit:
 
-[Kotisivu / Homepage](https://localghost.fi)    
-[X](https://twitter.com/localghostfi)     
-[Instagram](https://instagram.com/localghostfi)     
+[Kotisivu / Homepage](https://localghost.fi)          
+[X](https://twitter.com/localghostfi)           
+[Instagram](https://instagram.com/localghostfi)        
 
 ---
-LocalghostFI Verkkokauppa:  
+LocalghostFI Verkkokaupat:  
 
-[Kauppa / Store](https://kauppa.localghost.fi)
+[Palvelimet / Moduulit](https://kauppa.localghost.fi)   
+[Suomilomake](https://suomilomake.fi)   
+[3D Service / GhostPrint](https://ghostprint.fi)   
 
 ---     
 LocalghostFI yhteystiedot:    
 
-Sähköposti / Email: [asiakaspalvelu@localghost.fi](mailto:asiakaspalvelu@localghost.fi)    
-[Discord](https://discord.lgfi.fi)    
+Sähköposti / Email: [asiakaspalvelu@localghost.fi](mailto:asiakaspalvelu@localghost.fi)        
+Tukialue: [tuki.localghost.fi](https://tuki.localghost.fi)   
+[Discord](https://discord.lgfi.fi)
 
 ---
 LocalghostFI on 100% suomalainen ohjelmistotalo:  
@@ -31,4 +34,4 @@ LocalghostFI is a 100% Finnish software company:
 ---    
 LocalghostFI     
 VAT: FI29826295    
-Tampere, Finland     
+Muurame, Finland     
